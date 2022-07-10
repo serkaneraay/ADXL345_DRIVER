@@ -2,7 +2,6 @@
 
 
 ### This library was written on the STM32F407VGT6 for the ADXL345 accelerometer sensor.
---
 
 
 ----------------------------------------------------------------------------
