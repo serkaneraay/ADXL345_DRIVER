@@ -26,8 +26,8 @@
  *		ADXL345_setRateBits();
 
 
---
+----------------------------------------------------------------------------
 library files are in the following paths
-Core\Src\adxl345.c
-Core\Inc\adxl345.h
---
+Core/Src/adxl345.c
+Core/Inc/adxl345.h
+----------------------------------------------------------------------------
