@@ -4,7 +4,7 @@
                                   HOW TO USE THIS DRIVER
 ----------------------------------------------------------------------------
 
- *  1. Initialize the I2C
+ *  1) Initialize the I2C
  *  2. This library should be called to the main.c file                         Example: 	#include "adxl345.h"
  *  3. Include your peripheral functions header file to adxl345.h               Example: 	#include "stm32f4xx_hal.h"
  * 	4. Extern your handler value of I2C_HandleTypeDef to sensor header file     Example: 	extern I2C_HandleTypeDef hi2c1;
