@@ -27,7 +27,7 @@
 
 
 ----------------------------------------------------------------------------
-library files are in the following paths
+Library Files Are In The Following Paths
 --
 - Core/Src/adxl345.c
 - Core/Inc/adxl345.h
