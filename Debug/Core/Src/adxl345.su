@@ -1,0 +1,12 @@
+../Core/Src/adxl345.c:51:6:writeRegister	32	static
+../Core/Src/adxl345.c:69:9:readRegister8	40	static
+../Core/Src/adxl345.c:87:9:readRegister16	40	static
+../Core/Src/adxl345.c:108:9:ADXL345_ReadDeviceID	16	static
+../Core/Src/adxl345.c:125:18:ADXL345_Begin	16	static
+../Core/Src/adxl345.c:155:6:ADXL345_setRange	24	static
+../Core/Src/adxl345.c:176:17:ADXL345_getRange	8	static
+../Core/Src/adxl345.c:191:6:ADXL345_setRateBits	16	static
+../Core/Src/adxl345.c:205:21:ADXL345_getRateBits	8	static
+../Core/Src/adxl345.c:219:7:ADXL345_Get_accX	24	static
+../Core/Src/adxl345.c:266:7:ADXL345_Get_accY	24	static
+../Core/Src/adxl345.c:313:7:ADXL345_Get_accZ	24	static
